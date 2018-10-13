@@ -1,0 +1,4 @@
+If you would like to change the tempo, first make sure the sequencer is stopped, and then simply enter the desired tempo and click set tempo.
+To import a pattern click on Import Beat, and then select the file you would like to use, and click save.
+To export a pattern click on Export Beat, select the directory you wish to save the pattern to, then type in the name and hit save.
+To make any changes to the current pattern first stop the sequencer, make the desired changes, then hit play.
